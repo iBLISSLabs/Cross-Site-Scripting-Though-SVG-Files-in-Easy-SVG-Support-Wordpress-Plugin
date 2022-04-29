@@ -1,4 +1,4 @@
-# Cross Site Scripting Though SVG Files in Easy SVG Support Wordpress Plugin
+# Cross Site Scripting Through SVG Files in Easy SVG Support Wordpress Plugin
 
 This PoC describe how to exploit a Cross-Site Scripting (XSS) in - Wordpress Easy SVG Support version 3.2.0
 
